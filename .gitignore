@@ -3,3 +3,10 @@ bin/
 obj/
 .vs/
 *.user
+server.log
+server.err
+server.pid
+*.log
+*.err
+*.pid
+*.http
