@@ -1,0 +1,49 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+bin/
+obj/
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio Code
+.vscode/
+
+# NuGet
+*.nupkg
+
+# Logs
+*.log
+
+# Mac
+.DS_Store
+
+# Dotnet tools
+dotnet-*
+
+# Local secrets
+secrets.json
+
+# EF Core Migrations (optional storage)
+*.efcore
+
+# HTTP Requests file
+*.http
+
+# Lock files
+project.lock.json
+
+# user specific
+*.swp
+
+# Ignore Visual Studio's .vs index files explicitly (permission issues)
+.vs/**
